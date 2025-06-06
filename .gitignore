@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Python virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Data and results folders (optional, if you want to ignore large data)
+data/raw/
+results/
+
+# Logs
+*.log
+
+# VSCode settings (optional)
+.vscode/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
