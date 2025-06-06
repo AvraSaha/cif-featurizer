@@ -1,4 +1,3 @@
-
 # Project Title
 
 CIF Featurizer Project
@@ -65,3 +64,4 @@ Please follow standard Python coding conventions.
 Created by Avra — feel free to reach out for questions or collaboration!
 
 Email: avrasaha97@gmail.com
+
