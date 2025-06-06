@@ -30,6 +30,8 @@ pip install -r requirements.txt
 ``` 
 ## Usage
 
+- Unzip the data.zip file
+- After unzipping you will get two sub-folders named raw and processed
 - Place your raw CIF files in the folder: data/raw/
 - Run the pipeline by executing following command in the root folder:
 ```
